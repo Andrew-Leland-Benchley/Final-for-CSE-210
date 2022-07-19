@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6pC4r/RqYHtOfJHcxTlxBw3VBPDs4s2aHlCL1wRMEVcCnlzKKVQZMGOtUuKFK8nTgrSL32FMSxbDpsy/WqNJnw==",
+  "success": true,
+  "projectFilePath": "D:\\School\\Semester #3\\CSE 210\\New folder\\Matt-Manleys-Plumbing-Extravaganza\\Matt_Manleys_Plumbing_Extravaganza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Drew\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\Drew\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
